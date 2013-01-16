@@ -1,3 +1,5 @@
+Rebase testing
+
 Recording Changes to the Repository
 
 You have a bona fide Git repository and a checkout or working copy of the files for that project. You need to make some changes and commit snapshots of those changes into your repository each time the project reaches a state you want to record.
